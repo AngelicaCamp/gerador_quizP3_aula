@@ -1,0 +1,73 @@
+{
+    "true_or_false": [
+        {
+            "pergunta": "HTML é uma linguagem de programação muito utilizada em desenvolvimento web",
+            "gabarito": 1,
+            "tipoQuestao": 2,
+            "alternativas": [
+                "Verdadeiro",
+                "Falso"
+            ]
+        },
+        {
+            "pergunta": "O JavaScript diferencia maiúsculas de minúsculas?",
+            "gabarito": 0,
+            "tipoQuestao": 2,
+            "alternativas": [
+                "Verdadeiro",
+                "Falso"
+            ]
+        },
+        {
+            "pergunta": "A sintaxe JavaScript [window.open] é a correta para abrir uma nova janela.",
+            "gabarito": 0,
+            "tipoQuestao": 2,
+            "alternativas": [
+                "Verdadeiro",
+                "Falso"
+            ]
+        }
+    ],
+    "objetiva":[
+        {
+            "pergunta": "Em um documento HTML, o lugar correto para se declarar folhas de estilo CSS externas é dentro da seção:",
+            "gabarito": 1,
+            "tipoQuestao": 1,
+            "alternativas": [
+                "<div>",
+                "<head>",
+                "<body>",
+                "<title>"
+            ]
+        },
+        {
+            "pergunta": "HTML é uma linguagem de...",
+            "gabarito": 2,
+            "tipoQuestao": 1,
+            "alternativas": [
+                "Programação",
+                "Estilo",
+                "Marcação",
+                "Sinais"
+            ]
+        },
+        {
+            "pergunta": "Qual das linguagens abaixo é utilizada para estilizar um documento web?",
+            "gabarito": 0,
+            "tipoQuestao": 1,
+            "alternativas": [
+                "CSS",
+                "JavaScript",
+                "HTML",
+                "Python"
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
+

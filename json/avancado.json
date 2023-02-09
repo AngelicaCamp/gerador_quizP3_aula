@@ -1,0 +1,73 @@
+{
+    "true_or_false": [
+        {
+            "pergunta": "O comando SHUTDOWN pode ser usado para desligar ou reiniciar um host Linux.",
+            "gabarito": 0,
+            "tipoQuestao": 2,
+            "alternativas": [
+                "Verdadeiro",
+                "Falso"
+            ]
+        },
+        {
+            "pergunta": "A combinação das teclas Ctrl + Z permite encerrar o processo atual no shell do Linux.",
+            "gabarito": 1,
+            "tipoQuestao": 2,
+            "alternativas": [
+                "Verdadeiro",
+                "Falso"
+            ]
+        },
+        {
+            "pergunta": "Steve Linus foi o responsável por projetar o sistema operacional Linux.",
+            "gabarito": 1,
+            "tipoQuestao": 2,
+            "alternativas": [
+                "Verdadeiro",
+                "Falso"
+            ]
+        }
+    ],
+    "objetiva":[
+        {
+            "pergunta": "Como excluir um diretório no Linux?",
+            "gabarito": 2,
+            "tipoQuestao": 1,
+            "alternativas": [
+                "remove",
+                "delete",
+                "rmdir",
+                "Is"
+            ]
+        },
+        {
+            "pergunta": "Entre as opções abaixo, qual é um editor de texto que pode ser usado no modo de comando para editar arquivos em um sistema Linux?",
+            "gabarito": 0,
+            "tipoQuestao": 1,
+            "alternativas": [
+                "vi ou vim",
+                "open",
+                "edit",
+                "Isof"
+            ]
+        },
+        {
+            "pergunta": "O arquivo /etc/shadow no Linux é usado para armazenar:",
+            "gabarito": 3,
+            "tipoQuestao": 1,
+            "alternativas": [
+                "informações do sistema de arquivos",
+                "shell do usuário root",
+                "apelidos de comando",
+                "várias informações de senha"
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
+

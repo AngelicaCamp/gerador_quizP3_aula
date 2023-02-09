@@ -1,0 +1,73 @@
+{
+    "true_or_false": [
+        {
+            "pergunta": "Os comandos TCL ou Transactional Control Language são usados ​​para gerenciar diferentes transações que ocorrem em um banco de dados",
+            "gabarito": 0,
+            "tipoQuestao": 2,
+            "alternativas": [
+                "Verdadeiro",
+                "Falso"
+            ]
+        },
+        {
+            "pergunta": "A função MAX retorna a soma dos registros.",
+            "gabarito": 1,
+            "tipoQuestao": 2,
+            "alternativas": [
+                "Verdadeiro",
+                "Falso"
+            ]
+        },
+        {
+            "pergunta": "A função COUNT retorna a quantidade de registros.",
+            "gabarito": 0,
+            "tipoQuestao": 2,
+            "alternativas": [
+                "Verdadeiro",
+                "Falso"
+            ]
+        }
+    ],
+    "objetiva":[
+        {
+            "pergunta": "Os comandos DTL são responsáveis por gerenciar diferentes transações ocorridas dentro de um Banco de dados. Ele é dividido em três comandos, quais sejam:",
+            "gabarito": 0,
+            "tipoQuestao": 1,
+            "alternativas": [
+                "BEGIN TRAN, COMMIT e ROLLBACK.",
+                "BEGIN DEVTRAN, DEFINE e BACK.",
+                "BEGIN LIBRARY, FIND e ROLLBACK.",
+                "BEGIN, DEFINE LIBRARY e SCROLL."
+            ]
+        },
+        {
+            "pergunta": "O comando DROP TABLE é utilizado para qual finalidade? ",
+            "gabarito": 2,
+            "tipoQuestao": 1,
+            "alternativas": [
+                "Criar uma tabela existente no banco de dados",
+                "Alterar uma tabela existente no banco de dados",
+                "Excluir uma tabela existente no banco de dados",
+                "Inserir uma nova coluna em uma tabela existente no banco de dados"
+            ]
+        },
+        {
+            "pergunta": "A cláusula JOIN do SQL é muito importante para a manipulação de tabelas. Uma das cláusuas mais utilizadas é o INNER JOIN. Ao utiliza-lo, é retornado na query: ",
+            "gabarito": 1,
+            "tipoQuestao": 1,
+            "alternativas": [
+                "Todos os registros da primeira tabela, junto com quaisquer registros correspondentes da segunda tabela.",
+                "Todos os registros que possuem valores correspondentes em ambas as tabelas.",
+                "Todos os registros de ambas as tabelas quando há uma correspondência.",
+                "Todos os registros da segunda tabela, junto com quaisquer registros correspondentes da primeira tabela."
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
+
