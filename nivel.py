@@ -11,7 +11,8 @@ class Nivel(Enum):
 
 class NivelStrategy:
     
-    # retornar arquivo json com perguntas, de acordo com nivel
+    # racebe a resposta do usuário (nível de conhecimento)
+    # retorna arquivo json com perguntas, de acordo com nivel informado
     def selecionarQuestoes(self, resposta):
         if resposta == Nivel.INICIANTE.value:
             iniciante = json.load(open("json/iniciante.json",encoding='utf-8'))

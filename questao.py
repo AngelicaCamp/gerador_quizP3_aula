@@ -27,6 +27,7 @@ class QuestaoObjetiva(Questao):
 
 class QuestaoFactory:
 
+    # cria questão com formatos diferentes (objetiva ou verdadeira ou falsa)
     @staticmethod
     def criarQuestao(tipo: TipoQuestao, questoes):
         if tipo == TipoQuestao.VERDADEIRO_FALSO.value:
